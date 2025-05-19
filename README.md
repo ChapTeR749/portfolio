@@ -22,8 +22,8 @@
 ## Посилання
 
 * [Мій сайт](https://gptonline.ai/)
-* [Мій репозиторій на GitHub](#)
-* [Загальний репозиторій](#)
+* [Мій репозиторій на GitHub](https://github.com/ChapTeR749/portfolio/edit/main/README.md)
+* [Загальний репозиторій](https://github.com/PorokhovnichenkoIryna/learning_git)
 
 ## Чого я навчився
 
